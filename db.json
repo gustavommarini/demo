@@ -3,7 +3,6 @@
     {
       "id": 1,
       "name": "Chedraui Puerto",
-      "coords": [],
       "country": "Mexico",
       "region": "Riviera Maya",
       "state": "Quintana Roo",
@@ -15,7 +14,6 @@
     {
       "id": 2,
       "name": "Chedraui Colonia",
-      "coords": [],
       "country": "Mexico",
       "region": "Riviera Maya",
       "state": "Quintana Roo",
@@ -27,7 +25,6 @@
     {
       "id": 3,
       "name": "Aki",
-      "coords": [],
       "country": "Mexico",
       "region": "Riviera Maya",
       "state": "Quintana Roo",
